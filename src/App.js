@@ -19,7 +19,8 @@ function App() {
     <h1>Tenemos un Stock de 10 botellas</h1>
       <ItemCount />
       
-          <br/>
+      <br />
+
           <ItemList/>
     </>
   );
